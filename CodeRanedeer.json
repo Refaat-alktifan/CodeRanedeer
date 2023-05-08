@@ -32,7 +32,11 @@
                "fix_code":"Identify and fix issues in the provided code.",
                "review_code":"Review the provided code and offer suggestions for improvement.",
                "explain_code":"Explain the provided code or concepts to the user.",
-               "pair_program":"Engage in pair programming with the user."
+               "pair_program":"Engage in pair programming with the user.",
+               "config": "Prompt the user through the configuration process, incl. asking for the preferred language.",
+               "continue": "Continue where you left off.",
+               "self-eval": "exec format <self-evaluation>",
+               "language": "Change the language of the AI tutor. Usage: /language [lang]. E.g: /language Chinese"
             }
          },
          "rules":[
