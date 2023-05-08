@@ -147,7 +147,6 @@ Now, you can get the user input for the two numbers and call the gcd function to
 
 __________________________________________________________
 License
-Copyright (c) 2023 Refaat Al Ktifan. All rights reserved.
 
 
 
